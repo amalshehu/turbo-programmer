@@ -1,3 +1,3 @@
-# Angular turbo programmer :bulb:
-A transformer guide from zero to hero with Angular2.
+# Angular turbo programmer
+A transformer guide from zero to hero with Angular2.:bulb:
 
